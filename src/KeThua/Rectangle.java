@@ -1,2 +1,7 @@
-package KeThua;public class Rectangle {
+package KeThua;
+
+public class Rectangle extends Circle {
+    public Rectangle(String color, Boolean filled) {
+        super(color, filled);
+    }
 }

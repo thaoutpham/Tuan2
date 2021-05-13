@@ -1,2 +1,6 @@
-package KeThua;public class Spuare {
+package KeThua;
+
+public class Spuare {
+
+
 }
